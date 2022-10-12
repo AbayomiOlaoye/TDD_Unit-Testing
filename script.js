@@ -36,4 +36,3 @@ class Compute {
 }
 
 module.exports = { stringLength, reverseString, capitalize, Compute };
-Footer
